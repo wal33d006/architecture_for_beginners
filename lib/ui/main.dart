@@ -1,4 +1,4 @@
-import 'package:architecture_for_beginners/data/users_repository.dart';
+import 'package:architecture_for_beginners/data/rest_api_users_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:architecture_for_beginners/domain/repositories/users_repository.dart';
